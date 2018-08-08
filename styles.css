@@ -1,0 +1,38 @@
+/* add your CSS here */
+.main{
+    width:100%;
+    border:1px solid lightblue ;
+    box-shadow: 5px 5px lightgray;
+}
+
+.container{
+    margin: 5px;
+    border:1px solid lightblue;
+}
+h3{
+    margin-left:5px;
+    font-size: 150%;
+    font-family: 'Comfortaa', cursive,serif;
+}
+.interestingFact{
+  padding: 10px; 
+  font:italic  23px 'EB Garamond', serif;
+}
+.desc{
+  padding: 10px; 
+}
+
+
+span{
+    font-weight: bold;
+}
+li{
+    list-style:none;
+}
+
+img{
+    width:50%;
+    height: auto;
+    margin-left: 5px ;
+    border-radius: 8px ;
+}
